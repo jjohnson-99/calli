@@ -11,7 +11,7 @@ teach me just a little bit about, hopefully, a few things. Calli is a simple
 text editor based on snaptoken's [instructional
 booklet](https://viewsourcecode.org/snaptoken/kilo/index.html) implementing
 antirez's [kilo](https://antirez.com/news/108) text editor. In its current
-state, Calli is no different than snaptoken's code as I am still working
+state, calli is no different than snaptoken's code as I am still working
 through kilo.
 
 Why am I doing this? Because I like neovim and want to see how text editors.
@@ -35,10 +35,15 @@ macOS, so we'll need to find some other way.
 # Todo
 
 - [ ] Figure out how to allow multiple modes, e.g., "insert mode" and "normal
-mode."
+  mode."
 - [ ] Line numbering.
 - [ ] Jump to text.
-...
+- [ ] Display information on the bottom few lines, e.g., current file, current
+  mode. I know how to do this with escape commands, but maybe there are other
+  ways? 
+
+  ...
+
 - [ ] Many more.
 
 
