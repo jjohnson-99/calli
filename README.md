@@ -25,7 +25,7 @@ Greek Mythology.
 
 # Issues 
 
-- [ ] 
+- [ ] Column position is not preserved when moving between rows.
 
 # Todo
 
@@ -33,13 +33,10 @@ Greek Mythology.
   mode."
 - [ ] Line numbering.
 - [ ] Jump to text.
-- [ ] Display information on the bottom few lines, e.g., current file, current
-  mode. I know how to do this with escape commands, but maybe there are other
-  ways? 
 - [ ] add a .rc file.
 
   ...
 
-- [ ] Many more.
+- [ ] Much more.
 
 
